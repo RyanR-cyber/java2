@@ -1,12 +1,12 @@
 let video = "Youtube";
 let hobby = "coding";
-console.log(`My favorite hobby is ${hobby}.`);
-console.log(`I love watching ${video} videos!`);
+console.log(`My favorite hobby is ${hobby}.`); //varriable wriiten to console
+console.log(`I love watching ${video} videos!`); //varriable wriiten to console
 {
     let x = 10;
 } // variable is block 
 
-var y = 20; // variable is open
+var y = 20; // variable is global
 let text = "Hello, World!"; // this is a string variable
 console.log(text); 
 let a = 5; // this is a number variable
